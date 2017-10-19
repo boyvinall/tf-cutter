@@ -1,0 +1,6 @@
+*.backup
+*.tfplan
+*.old
+*.pem
+.terraform
+*-openrc*.sh
